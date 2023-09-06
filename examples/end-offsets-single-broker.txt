@@ -1,0 +1,10 @@
+clicks:0:500
+clicks:1:500
+clicks:2:500
+clicks:3:500
+orders:0:200
+orders:1:200
+orders:2:200
+orders:3:3000
+orders:4:200
+orders:5:200
